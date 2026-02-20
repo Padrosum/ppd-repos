@@ -11,5 +11,10 @@
 		}, {
 			"name":	"pnbs",
 			"url":	"https://raw.githubusercontent.com/Padrosum/PNBS/refs/heads/main/pnbs"
-		}]
+		}, {
+			"name":	"pgt",
+			"url":	"https://raw.githubusercontent.com/Padrosum/PGT/refs/heads/main/pgt.py"
+		}
+	
+		]
 }
