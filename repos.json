@@ -19,7 +19,13 @@
 		{
 			"name":	"flappypadros",
 			"url":	"https://raw.githubusercontent.com/Padrosum/FlappyPadros/refs/heads/main/flappypadros"
-		}
+		},
+
+        {
+			"name":	"psifre",
+			"url":	"https://raw.githubusercontent.com/Padrosum/psifre/refs/heads/main/pfsifre"
+		},
+
 	
 		]
 }
