@@ -29,6 +29,11 @@
         {
 			"name":	"pdolar",
 			"url":	"https://raw.githubusercontent.com/Padrosum/pdolar/refs/heads/main/pdolar"
+    },
+
+        {
+			"name":	"pmusic",
+			"url":	"https://github.com/Padrosum/pmusic/raw/refs/heads/main/pmusic"
 		}
 	
 		]
